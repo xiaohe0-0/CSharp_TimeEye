@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <message date="2017/3/1">
+    <info time="16:33">Start working</info>
+    <info time="16:35">Stop working</info>
+    <info time="16:36">Start working</info>
+    <info time="16:38">Start working</info>
+    <info time="16:41">Stop working</info>
+    <info time="16:41">Start working</info>
+    <info time="16:42">Stop working</info>
+  </message>
+  <message date="2017/3/4" />
+</root>

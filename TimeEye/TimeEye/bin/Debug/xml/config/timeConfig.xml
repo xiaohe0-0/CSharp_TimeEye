@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <start_work>9:30:00</start_work>
+  <end_work>17:30:00</end_work>
+  <remind_work>10</remind_work>
+  <remind_rest>1</remind_rest>
+</root>

@@ -1,0 +1,15 @@
+C:\Users\H\Desktop\Timer\Timer\obj\x86\Debug\Timer.exe
+C:\Users\H\Desktop\Timer\Timer\obj\x86\Debug\Timer.pdb
+C:\Users\H\Desktop\TimeEye\TimeEye\bin\Debug\TimeEye.exe
+C:\Users\H\Desktop\TimeEye\TimeEye\bin\Debug\TimeEye.pdb
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.MainForm.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.Properties.Resources.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.csproj.GenerateResource.Cache
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.exe
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.pdb
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.Form_Setting.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.UserControl_Backup.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.UserControl_Theme.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.UserControl_TimeAnalysis.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.UserControl_TimeSetting.resources
+C:\Users\H\Desktop\TimeEye\TimeEye\obj\x86\Debug\TimeEye.csprojResolveAssemblyReference.cache
